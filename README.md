@@ -6,7 +6,7 @@ Student of Software Engineering in UTM Skudai
 
 I am a 1st year student
 
-* 🌍  I'm based in Johor, Malaysia
+* 🌍  I was born in Johor, Malaysia
 * ✉️  You can contact me at [nurin04@graduate.utm.my](mailto:nurin04@graduate.utm.my)
 * 🧠  I'm learning Software Engineering
 
