@@ -16,6 +16,12 @@ Quotes : "interested in what you're doing, so it will give the same energy"
 ## Summary
 You can contact me through e-mail nurin04@graduate.utm.my 
 
+## Core
+Education background 🥇
+SK Parit Pechah (2011-2016)
+SM Sains Muar (2017-2021)
+Universiti Teknologi Mara Dengkil (2022-2023)
+
 <a href="https://www.github.com/nurinizzti" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nurinizzti?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
