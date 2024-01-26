@@ -1,13 +1,20 @@
-Hi !I'm Nurin Izzati 
+Hi !I'm Nurin Izzati ⭐
 ====================================================================================================================================
 
 Student of Bachelor in Computer Science (Software Engineering) in UTM Skudai
 ---------------------------------------------
 Name : Nurin Izzati binti Mohd Rashidin
+
 Age : 20
+
 Origin : Muar, Johor
+
 Birthday : 07 November 2004
+
 Quotes : "interested in what you're doing, so it will give the same energy"
+
+## Summary
+You can contact me through e-mail nurin04@graduate.utm.my 
 
 <a href="https://www.github.com/nurinizzti" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nurinizzti?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
