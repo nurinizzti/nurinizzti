@@ -4,11 +4,8 @@ Hi !I'm Nurin Izzati ⭐
 Student of Bachelor in Computer Science (Software Engineering) in UTM Skudai
 ---------------------------------------------
 Name : Nurin Izzati binti Mohd Rashidin
-
-Age : 21
-
-Origin : Muar, Johor
-
+Age : 22
+Origin : Johor
 Birthday : 07 November 2004
 
 Quotes : "interested in what you're doing, so it will give the same energy"
