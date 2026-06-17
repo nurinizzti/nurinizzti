@@ -8,7 +8,7 @@ Age : 22
 Origin : Johor
 Birthday : 07 November 2004
 
-Quotes : "interested in what you're doing, so it will give the same energy"
+Quotes : "interested in what you're doing, to get the same energy"
 
 ## Summary
 You can contact me through e-mail nurin04@graduate.utm.my 
